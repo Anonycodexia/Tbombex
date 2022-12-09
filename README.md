@@ -1,6 +1,6 @@
 # Tbombex
 
-This Tbombex tool is made for the purpose of increasing the limit of Tbomb. This will change the default limits of Tbomb simply. With the help of this tool you can set your own desired limit in the Tbomb tool after Installation.
+This Tbombex tool is made for the purpose of increasing the limit of Tbomb. This will change the default limits of Tbomb simply. With the help of this tool you can set your own desired limit in the Tbomb tool after Installation of Tbomb through pip.
  
 # Installation
 
